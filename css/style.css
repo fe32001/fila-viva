@@ -66,7 +66,7 @@ body {
 .tag-compre-agora span {
     color: black;
     font-size: .75rem;
-    background-color: #FFD700;
+    background-color: #ebab2c;
     border-radius: 0.2rem;
     padding: 0.4rem;
     -webkit-box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.16);
@@ -164,7 +164,7 @@ button.cota {
     align-items: center;
     width: 100%;
     color: white;
-    background-color: #FFD700;
+    background-color: #ebab2c;
     border: none;
     padding: 0.5em 0rem;
     border-radius: 0.3rem;
@@ -228,7 +228,7 @@ i.destaque {
     margin-top: 30px !important;
     display: flex;
     padding: 0.8rem 10rem;
-    background-color: #FFD700 !important;
+    background-color: #ebab2c !important;
     border-radius: 0.6rem;
 }
 
@@ -333,7 +333,7 @@ button.adc-carrinho i {
     align-items: center;
     justify-content: center;
     background-color: white;
-    color: #FFD700;
+    color: #ebab2c;
     font-size: 1.2rem;
     font-weight: 600;
     padding: 0.5rem 6rem;
@@ -342,7 +342,7 @@ button.adc-carrinho i {
 }
 
 .accordion-button {
-    background-color: #FFD700 !important;
+    background-color: #ebab2c !important;
 }
 
 .accordion-button::after {
@@ -357,7 +357,7 @@ button.adc-carrinho i {
 }
 
 .resumo-compra-header-btn span {
-    color: #FFD700;
+    color: #ebab2c;
     background-color: white;
     padding: 0.5rem;
     line-height: 0;
@@ -368,7 +368,7 @@ button.adc-carrinho i {
 }
 
 .resumo-compra-header-btn span.active {
-    background-color: #FFD700;
+    background-color: #ebab2c;
     color: white;
     transform: rotate(180deg);
 }
@@ -379,7 +379,7 @@ button.adc-carrinho i {
 }
 
 .resumo-compra-table h1 {
-    color: #FFD700;
+    color: #ebab2c;
     font-weight: 500;
     font-size: 0.9rem;
     display: flex;
@@ -389,7 +389,7 @@ button.adc-carrinho i {
 }
 
 .resumo-compra-table h2 {
-    color: #FFD700;
+    color: #ebab2c;
     font-weight: 600;
     font-size: 1rem;
     display: flex;
@@ -400,7 +400,7 @@ button.adc-carrinho i {
 
 .resumo-compra-table.active {
     margin: 0.5rem 0rem !important;
-    background-color: #FFD700;
+    background-color: #ebab2c;
     color: white !important;
     border-radius: 0.6rem;
     padding: 0.7rem 1rem;
@@ -508,7 +508,7 @@ IMG.logo-rodape {
 }
 
 .redes i {
-    color: #FFD700;
+    color: #ebab2c;
     font-size: 1.2rem;
     margin-right: 0.5rem !important;
 }
@@ -640,7 +640,7 @@ IMG.logo-rodape {
 .banner {
     padding: 0.3em 0em;
     background-image: url('../images/pattern-viva.svg');
-    background-color: #FFD700;
+    background-color: #ebab2c;
 }
 
 .sorteio-date {
@@ -668,7 +668,7 @@ IMG.logo-rodape {
 .infos-banner h2 {
     margin-top: 10px !important;
     font-size: 1.8rem !important;
-    color: #FFD700 !important;
+    color: #ebab2c !important;
     font-weight: 500 !important;
 }
 
@@ -680,7 +680,7 @@ IMG.logo-rodape {
 }
 
 .topo {
-    background-color: #FFD700 !important;
+    background-color: #ebab2c !important;
     padding: 1rem !important;
     margin-bottom: 1.2rem !important;
 }
@@ -722,7 +722,7 @@ IMG.logo-rodape {
 
 .coupon {
     height: 90px;
-    background-color: #FFD700;
+    background-color: #ebab2c;
 }
 
 .coupon .kanan {
@@ -804,7 +804,7 @@ span.valor-premio-dinheiro {
 
 .coupon {
     height: 90px;
-    background-color: #FFD700;
+    background-color: #ebab2c;
 }
 
 .coupon .kanan {
@@ -883,7 +883,7 @@ span.valor-premio-dinheiro {
 
 H1.assista-video {
     margin-top: 20px;
-    color: #FFD700;
+    color: #ebab2c;
     font-size: 1.4rem;
     line-height: 1em;
     font-weight: 800;
@@ -893,7 +893,7 @@ H1.assista-video {
 
 H1.assista-video-novo {
     margin-top: 30px;
-    color: #FFD700;
+    color: #ebab2c;
     font-size: 1.4rem;
     line-height: 1em;
     font-weight: 800;
@@ -1021,7 +1021,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0ea5e9",endCo
     .infos-banner h2 {
         margin-top: 10px !important;
         font-size: 7vw;
-        color: #FFD700;
+        color: #ebab2c;
         font-weight: 500;
     }
     
@@ -1184,7 +1184,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0ea5e9",endCo
 
     .resumo-compra-table.active {
         margin: 0.5rem 0rem !important;
-        background-color: #FFD700;
+        background-color: #ebab2c;
         color: white !important;
         border-radius: 0.6rem;
         padding: 0.7rem 1rem;
